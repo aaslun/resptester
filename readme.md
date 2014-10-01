@@ -1,4 +1,8 @@
-## Laravel PHP Framework
+## Responsive Site Tester
+
+Responsive Site Tester is a web site that allows you to setup a browser to monitor and check site responsiveness. It also allows some automation of tasks. Ideal displaying this on a screen in your office space to get an updated responsiveness check of your site as it develops.
+
+# Based on Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
