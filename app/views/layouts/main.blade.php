@@ -29,8 +29,7 @@
 <footer>
     <div class="container">
         <div class="row text-center">
-
-            {{ date('Y'); }} &bull; modulecode.com
+            Responsive Site Tester &copy; {{ date('Y'); }} &bull; modulecode.com
         </div>
     </div>
 </footer>
