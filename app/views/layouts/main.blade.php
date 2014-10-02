@@ -9,7 +9,6 @@
     <title>@yield('title','Responsive Site Tester')</title>
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="{{ URL::asset('less/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ URL::asset('less/css/bootstrap-theme.min.css') }}">
     <script src="{{ URL::asset('js/min/jquery.min.js') }}"></script>
     <script src="{{ URL::asset('js/min/bootstrap.min.js') }}"></script>
 </head>
