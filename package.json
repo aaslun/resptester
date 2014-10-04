@@ -1,0 +1,24 @@
+{
+    "name": "responsivetest",
+    "version": "1.0.0",
+    "description": "Responsive Site Tester is a web site that allows you to setup a browser to monitor and check site responsiveness. It also allows some automation of tasks. Ideal displaying this on a screen in your office space to get an updated responsiveness check of your site as it develops.",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/aaslun/resptester.git"
+    },
+    "author": "Andreas Lundgren",
+    "dependencies": {
+        "grunt": "~0.4.2",
+        "grunt-bower-task": "~0.3.4",
+        "grunt-contrib-uglify": "~0.2.7",
+        "grunt-contrib-jshint": "~0.7.2",
+        "grunt-contrib-copy": "~0.4.1",
+        "grunt-contrib-watch": "~0.5.3",
+        "grunt-contrib-less": "~0.9.0",
+        "grunt-modernizr": "~0.4.1"
+    },
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.7.2"
+    }
+}

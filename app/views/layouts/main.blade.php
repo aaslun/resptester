@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Din guide till svenska matsvampar på nätet">
+    <meta name="description" content="Test the responsive design of any site.">
     <meta name="author" content="">
     <title>@yield('title','Responsive Site Tester')</title>
     <link rel="icon" href="favicon.ico">
-    <link rel="stylesheet" href="{{ URL::asset('less/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ URL::asset('css/bootstrap.min.css') }}">
     <script src="{{ URL::asset('js/min/jquery.min.js') }}"></script>
     <script src="{{ URL::asset('js/min/bootstrap.min.js') }}"></script>
 </head>
@@ -33,7 +33,7 @@
     </div>
 </footer>
 
-<link rel="stylesheet" href="{{ URL::asset('less/css/resptest.min.css') }}">
+<link rel="stylesheet" href="{{ URL::asset('css/resptest.min.css') }}">
 <script src="{{ URL::asset('js/min/resptest.min.js') }}"></script>
 </body>
 </html>
